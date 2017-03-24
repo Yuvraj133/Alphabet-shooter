@@ -1,0 +1,35 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: I:\Notes\Projects\Games\Games unity\Alphabet.SpaceShooter.Unity.3D-master\Alphabet Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.437775 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7ac -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.685526 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 741.
+Total: 0.679115 ms (FindLiveObjects: 0.086386 ms CreateObjectMapping: 0.021382 ms MarkObjects: 0.520883 ms  DeleteObjects: 0.049607 ms)
+
