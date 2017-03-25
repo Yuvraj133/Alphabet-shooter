@@ -40,7 +40,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8372ebf69ee47a5805b2d3d6c64d04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  InitialLives: 99
+  InitialLives: 05
   hazardCount: 10
   SpawnWait: 3
   StartWait: 5
